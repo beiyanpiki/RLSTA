@@ -1,0 +1,8 @@
+RandomInjection_GCN
+CLN: 0.832;	 After Ran ATK: 0.765;	Ours: 0.812;	RobustGCN:0.811;	MedianGCN:0.748
+RandomInjection_SGC
+CLN: 0.813;	 After Ran ATK: 0.794;	Ours: 0.765;	RobustGCN:0.824;	MedianGCN:0.647
+AdvInjection_GCN
+CLN: 0.824;	 After Adv ATK: 0.471;	Ours: 0.882;	RobustGCN:0.765;	MedianGCN:0.706
+AdvInjection_SGC
+CLN: 0.824;	 After Adv ATK: 0.353;	Ours: 0.765;	RobustGCN:0.765;	MedianGCN:0.706
